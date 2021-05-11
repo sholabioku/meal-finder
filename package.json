@@ -1,0 +1,16 @@
+{
+  "name": "meal-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Lukman Bioku",
+  "homepage": "https://sholabioku.github.io/meal-finder",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
